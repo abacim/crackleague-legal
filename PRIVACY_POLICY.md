@@ -8,12 +8,12 @@ This Privacy Policy explains how we collect, use, safeguard, and disclose inform
 Unless otherwise defined in this Privacy Policy, terms used here have the same meanings as in our Terms and Conditions. Together, the Terms and this Privacy Policy constitute your agreement with us.
 
 ## 2. Definitions
-SERVICE means the Crack The Code League mobile puzzle game operated by Mehmet ABACI.
-PERSONAL DATA means information that can identify an individual.
-USAGE DATA means data collected automatically through use of the Service.
-DATA CONTROLLER means the individual who determines how and why personal data is processed. For this Service, the Data Controller is Mehmet ABACI.
-DATA SUBJECT means the individual using the Service.
-USER refers to the Data Subject.
+**SERVICE** means the Crack The Code League mobile puzzle game operated by Mehmet ABACI
+**PERSONAL DATA** means information that can identify an individual.
+**USAGE DATA** means data collected automatically through use of the Service.
+**DATA CONTROLLER** means the individual who determines how and why personal data is processed. For this Service, the Data Controller is Mehmet ABACI.
+**DATA SUBJECT** means the individual using the Service.
+**USER** refers to the Data Subject.
 
 ## 3. Information Collection and Use
 We collect only the minimum data necessary to operate the game.
@@ -27,9 +27,9 @@ Secret Question and Answer – used only for account recovery and account deleti
 In addition, limited Usage Data may be collected to ensure proper game functionality.
 
 ## 4. Types of Data Collected
-Personal Data
+# Personal Data
 The app does not require or request personally identifiable contact information such as email address, phone number, or real name.
-Usage Data
+# Usage Data
 Usage Data may include:
 Number of games played
 Game dates
