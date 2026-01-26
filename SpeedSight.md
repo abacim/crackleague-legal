@@ -71,7 +71,8 @@ Players who wish to share their reactions may use the device’s built-in screen
 - No advertising, tracking, or third-party data sharing  
 
 Full Privacy Policy is available here:  
-👉 https://github.com/abacim/Crackleague_legal/blob/main/privacy_policy.md
+👉 [https://github.com/abacim/Crackleague_legal/blob/main/privacy_policy.md](https://github.com/abacim/crackleague-legal/blob/main/PRIVACY_POLICY.md)
+
 
 ---
 
